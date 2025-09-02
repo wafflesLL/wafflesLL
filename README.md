@@ -7,25 +7,23 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, skills
 ## 🚀 About Me
 
 - 🌱 Lifelong learner, always exploring new ideas and tech trends
-- 💡 Open-source enthusiast and active contributor
 - 🤝 Love to collaborate and share knowledge
 
 ---
 
 ## 🛠️ Skills
 
-<!-- Add your top languages, frameworks, and specialties here -->
-- Programming Languages: `Python`, `JavaScript`, `TypeScript`, `Go`
+- Programming Languages: `C`, `C++`, `TypeScript`, `Python`
 - Frameworks & Tools: `React`, `Node.js`, `Docker`, `Git`
-- Specialties: Full-stack development, API design, automation
+- Specialties: Full-stack development, Networking
 
 ---
 
 ## 📦 Featured Projects
 
 <!-- Highlight your favorite or most impactful repositories -->
-- [Project Name](https://github.com/wafflesLL/project-name): Brief description of what it does.
-- [Another Project](https://github.com/wafflesLL/another-project): Why you're proud of it or what you learned.
+- [My Website](https://github.com/wafflesLL/my-website): On this site I display my portfolio and my ability to use modern frameworks like Next.js
+- [Another Project](https://github.com/wafflesLL/another-project): Why
 
 ---
 

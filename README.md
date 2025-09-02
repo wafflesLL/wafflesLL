@@ -21,18 +21,15 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, skills
 
 ## 📦 Featured Projects
 
-<!-- Highlight your favorite or most impactful repositories -->
 - [My Website](https://github.com/wafflesLL/my-website): On this site I display my portfolio and my ability to use modern frameworks like Next.js
-- [Another Project](https://github.com/wafflesLL/another-project): Why
+- [Glasses For Good (frontend)](https://github.com/wafflesLL/gfgfrontend): Here is the frontend of a project that I is still in its planning phase
 
 ---
 
 ## 🌐 Connect with Me
 
-<!-- Add your preferred social links or ways to reach you -->
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
+- [LinkedIn](https://www.linkedin.com/in/liam-loeffel/)
+- [Personal Website](https://www.liamloeffel.com/)
 
 ---
 
@@ -41,5 +38,13 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, skills
 ![wafflesLL's GitHub stats](https://github-readme-stats.vercel.app/api?username=wafflesLL&show_icons=true&hide_title=true&theme=github_dark)
 
 ---
+
+## 💻 My Personal Interests
+
+- I am an avid gym lover, and go to work out 3-4 times a week (it would be higher volume but I am in school)
+- I also love a VIM workflow programming. Sometimes it is easier to work out of Visual Studio Code, but I still use the VIM motions in VS Code and even use the Vimium Extension in my browser since switching between a code space and using browser tabs can often be difficult workspace transitions i prefer to use the same movement accross my entire workflow. My neovim configuration is available [here](https://github.com/wafflesLL/nvim) I do not update it as often as I used to but since I use it so often, it should be updated to work with the latest dependencies within a few days of updates
+- I also enjoy hiking and though I have not been able to do as much during my time in college, I still want to do at least one trip a year in order to fully disconnect from the rapid pace world we all live in just for a little bit.
+
+----
 
 _Thanks for visiting! Let's build something amazing together._

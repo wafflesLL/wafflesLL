@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Liam Loeffel (wafflesLL)!
 
-Welcome to my GitHub profile! Here you'll find a showcase of my projects, skills, and contributions to the open-source community. I'm passionate about building innovative solutions, collaborating with talented developers, and constantly learning new technologies.
+Welcome to my GitHub profile! Here you'll find a showcase of my projects, and skills. I'm passionate about building innovative solutions, collaborating with talented developers, and constantly learning new technologies.
 
 ---
 

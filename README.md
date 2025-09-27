@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, and sk
 ## 🛠️ Skills
 
 - Programming Languages: `C`, `C++`, `TypeScript`, `Python`
-- Frameworks & Tools: `React`, `Node.js`, `Docker`, `Git`
+- Frameworks & Tools: `React`, `Next.js`, `Node.js`, `Docker`, `Git`
 - Specialties: Full-stack development, Networking
 
 ---

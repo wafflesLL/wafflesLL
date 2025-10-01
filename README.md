@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here you'll find a showcase of my projects, and sk
 ## 📦 Featured Projects
 
 - [My Website](https://github.com/wafflesLL/my-website): On this site I display my portfolio and my ability to use modern frameworks like Next.js
-- [Glasses For Good (frontend)](https://github.com/wafflesLL/gfgfrontend): Here is the frontend of a project that I is still in its planning phase
+- [Glasses For Good (frontend)](https://github.com/wafflesLL/gfgfrontend) [Glasses For Good (backend)](https://github.com/wafflesLL/gfgbackend): Here is the frontend and backend of a project that is now in the development phase
 
 ---
 
